@@ -29,7 +29,8 @@ const Hero = () => {
             </div>
 
             <div>
-                <Image src="https://ipowerresale.com/cdn/shop/products/media_416f1799-6fb9-455b-b70d-9bea48d91a48.png?v=1702541500" alt="hero" className="ml-auto" />
+                <div className="h-[260px] bg-[url(https://ipowerresale.com/cdn/shop/products/media_416f1799-6fb9-455b-b70d-9bea48d91a48.png?v=1702541500)] bg-right rounded-xl hidden lg:block"></div>
+{/*                 <Image src="https://ipowerresale.com/cdn/shop/products/media_416f1799-6fb9-455b-b70d-9bea48d91a48.png?v=1702541500" alt="hero" className="ml-auto" /> */}
             </div>
         </div>
     </div>
